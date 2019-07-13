@@ -1,0 +1,122 @@
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\AddPlayerWindow.g.cs
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\PlayersWindow.g.cs
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\AddPlayerWindow.baml
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\PlayersWindow.baml
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\bin\Debug\DB.dll
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\bin\Debug\DB.pdb
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\bin\Debug\DB.dll.config
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\bin\Debug\Games.dll
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\bin\Debug\Games.pdb
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\bin\Debug\Games.dll.config
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\ShowAllPlayerWindow.g.cs
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\ShowAllPlayerWindow.baml
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\EditPlayerWindow.g.cs
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\EditPlayerWindow.baml
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\DeletePlayerWindow.g.cs
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\DeletePlayerWindow.baml
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\AddStadiumWindow.g.cs
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\StadiumsWindow.g.cs
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\AddStadiumWindow.baml
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\StadiumsWindow.baml
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\DeleteStadiumWindow.g.cs
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\DeleteStadiumWindow.baml
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\ShowAllStadiums.g.cs
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\ShowAllStadiums.baml
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\EditStadiumWindow.g.cs
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\EditStadiumWindow.baml
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\AddGameWindow.g.cs
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\GamesWindow.g.cs
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\AddGameWindow.baml
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\GamesWindow.baml
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\GamesInformationWindow.g.cs
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\GamesInformationWindow.baml
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\EditGameWindow.g.cs
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\EditGameWindow.baml
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\DeleteGameWindow.g.cs
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\DeleteGameWindow.baml
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\SearchWindow.g.cs
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\WpfApp1\obj\Debug\SearchWindow.baml
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\bin\Debug\DB.dll
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServerCompact.dll
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\bin\Debug\Games.dll
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\bin\Debug\DB.pdb
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\bin\Debug\DB.dll.config
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\bin\Debug\Games.pdb
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\bin\Debug\Games.dll.config
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\bin\Debug\EntityFramework.SqlServerCompact.xml
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csprojAssemblyReference.cache
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\AddGameWindow.g.cs
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\AddPlayerWindow.g.cs
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\AddStadiumWindow.g.cs
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\DeleteGameWindow.g.cs
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\DeletePlayerWindow.g.cs
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\DeleteStadiumWindow.g.cs
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\EditGameWindow.g.cs
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\EditPlayerWindow.g.cs
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\EditStadiumWindow.g.cs
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\GamesInformationWindow.g.cs
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\GamesWindow.g.cs
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\PlayersWindow.g.cs
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\SearchWindow.g.cs
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\ShowAllPlayerWindow.g.cs
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\ShowAllStadiums.g.cs
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\StadiumsWindow.g.cs
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\AddGameWindow.baml
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\AddPlayerWindow.baml
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\AddStadiumWindow.baml
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\DeleteGameWindow.baml
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\DeletePlayerWindow.baml
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\DeleteStadiumWindow.baml
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\EditGameWindow.baml
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\EditPlayerWindow.baml
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\EditStadiumWindow.baml
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\GamesInformationWindow.baml
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\GamesWindow.baml
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\PlayersWindow.baml
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\SearchWindow.baml
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\ShowAllPlayerWindow.baml
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\ShowAllStadiums.baml
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\StadiumsWindow.baml
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb

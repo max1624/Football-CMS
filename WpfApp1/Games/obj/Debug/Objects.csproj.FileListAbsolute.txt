@@ -1,0 +1,24 @@
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\Games\bin\Debug\Games.dll.config
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\Games\bin\Debug\Games.dll
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\Games\bin\Debug\Games.pdb
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\Games\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\Games\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\Games\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\Games\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\Games\obj\Debug\Objects.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\Games\obj\Debug\Games.dll
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\Games\obj\Debug\Games.pdb
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\Games\obj\Debug\Objects.csprojAssemblyReference.cache
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\Games\obj\Debug\Objects.csproj.CopyComplete
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\Games\bin\Debug\Games.dll.config
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\Games\bin\Debug\Games.dll
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\Games\bin\Debug\Games.pdb
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\Games\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\Games\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\Games\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\Games\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\Games\obj\Debug\Objects.csprojAssemblyReference.cache
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\Games\obj\Debug\Objects.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\Games\obj\Debug\Objects.csproj.CopyComplete
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\Games\obj\Debug\Games.dll
+C:\Users\User\Desktop\НАУ\2 курс 1 семестр\Курсач\WpfApp1\Games\obj\Debug\Games.pdb

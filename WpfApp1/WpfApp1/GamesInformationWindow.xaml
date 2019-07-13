@@ -1,0 +1,19 @@
+﻿<Window x:Class="WpfApp1.GamesInformationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="GamesInformationWindow" Height="400" Width="400">
+    <Window.Background>
+        <ImageBrush ImageSource="../Images/4.jpg" Stretch="UniformToFill" TileMode="None" />
+    </Window.Background>
+    <Grid>
+        <ScrollViewer Margin="38,60,37.6,70.4">
+            <WrapPanel Name="GamesShowList" Background="LightGray" />
+        </ScrollViewer>
+        <Label Content="Список всіх ігор" HorizontalAlignment="Left" Margin="128,10,0,0" VerticalAlignment="Top" Foreground="White" FontFamily="Microsoft YaHei UI Light" FontSize="16"/>
+        <Button x:Name="Show" Content="Показати інформацію" HorizontalAlignment="Left" Margin="118,329,0,0" VerticalAlignment="Top" Width="150" Click="Show_Click"/>
+    </Grid>
+</Window>

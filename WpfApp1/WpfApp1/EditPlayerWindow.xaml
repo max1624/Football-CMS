@@ -1,0 +1,32 @@
+﻿<Window x:Class="WpfApp1.EditPlayerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="EditPlayerWindow" Height="450" Width="560">
+    <Window.Background>
+        <ImageBrush ImageSource="../Images/2.jpg" Stretch="UniformToFill" TileMode="None" />
+    </Window.Background>
+    <Grid>
+        <TextBox x:Name="PlayerSearch" HorizontalAlignment="Left" Height="27" Margin="185,99,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="166"/>
+        <Button x:Name="Search" Content="&gt;" HorizontalAlignment="Left" Margin="351,99,0,0" VerticalAlignment="Top" Width="33" Height="27" Click="Search_Click"/>
+        <Label Content="Введіть ім'я гравця" HorizontalAlignment="Left" Margin="214,59,0,0" VerticalAlignment="Top" Foreground="White" FontFamily="Microsoft YaHei UI Light"/>
+        <TextBox x:Name="FirstName" HorizontalAlignment="Left" Height="31" Margin="54,168,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="186"/>
+        <TextBox x:Name="SecondName" HorizontalAlignment="Left" Height="31" Margin="314,168,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="186"/>
+        <TextBox x:Name="BirthDate" HorizontalAlignment="Left" Height="30" Margin="54,243,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="186"/>
+        <TextBox x:Name="PlayerStatus" HorizontalAlignment="Left" Height="30" Margin="314,243,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="186"/>
+        <TextBox x:Name="HealthStatus" HorizontalAlignment="Left" Height="30" Margin="54,316,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="186"/>
+        <TextBox x:Name="Salary" HorizontalAlignment="Left" Height="30" Margin="314,316,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="186"/>
+        <Label Content="Ім'я" HorizontalAlignment="Left" Margin="54,134,0,0" VerticalAlignment="Top" Width="186" Height="34" FontFamily="Microsoft YaHei UI Light" Foreground="White"/>
+        <Label Content="Прізвище" HorizontalAlignment="Left" Margin="314,132,0,0" VerticalAlignment="Top" Width="186" Height="29" Foreground="White" FontFamily="Microsoft YaHei UI Light"/>
+        <Label Content="Дата народження" HorizontalAlignment="Left" Margin="54,209,0,0" VerticalAlignment="Top" Width="186" Height="34" Foreground="White" FontFamily="Microsoft YaHei UI Light"/>
+        <Label Content="Статус гравця" HorizontalAlignment="Left" Margin="314,209,0,0" VerticalAlignment="Top" Width="193" Height="36" Foreground="White" FontFamily="Microsoft YaHei UI Light"/>
+        <Label Content="Статус здоров'я" HorizontalAlignment="Left" Margin="54,282,0,0" VerticalAlignment="Top" Width="186" Height="34" FontFamily="Microsoft YaHei UI Light" Foreground="White"/>
+        <Label Content="Зарплатня" HorizontalAlignment="Left" Margin="314,291,0,0" VerticalAlignment="Top" Width="193" Height="29" Foreground="White" FontFamily="Microsoft YaHei UI Light"/>
+        <Button x:Name="Edit" Content="Edit" HorizontalAlignment="Left" Margin="227,366,0,0" VerticalAlignment="Top" Width="105" Height="28" Click="Edit_Click"/>
+        <Label Content="Змінити дані гравця" HorizontalAlignment="Left" Margin="198,21,0,0" VerticalAlignment="Top" FontSize="16" Foreground="White" FontFamily="Microsoft YaHei UI Light"/>
+
+    </Grid>
+</Window>

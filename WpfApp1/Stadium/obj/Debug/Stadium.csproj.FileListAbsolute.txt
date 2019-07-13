@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\Stadium\bin\Debug\Stadium.dll.config
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\Stadium\bin\Debug\Stadium.dll
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\Stadium\bin\Debug\Stadium.pdb
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\Stadium\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\Stadium\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\Stadium\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\Stadium\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\Stadium\obj\Debug\Stadium.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\Stadium\obj\Debug\Stadium.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\Stadium\obj\Debug\Stadium.dll
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\Stadium\obj\Debug\Stadium.pdb

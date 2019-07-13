@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\ClassLibrary1\obj\Debug\Player.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\ClassLibrary1\obj\Debug\Player.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\ClassLibrary1\bin\Debug\ClassLibrary1.dll.config
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\ClassLibrary1\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\НАУ\Курсач\WpfApp1\ClassLibrary1\bin\Debug\EntityFramework.SqlServer.xml

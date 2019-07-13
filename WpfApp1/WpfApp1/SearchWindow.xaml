@@ -1,0 +1,22 @@
+﻿<Window x:Class="WpfApp1.SearchWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="SearchWindow" Height="296" Width="334.133">
+    <Window.Background>
+        <ImageBrush ImageSource="../Images/2.jpg" Stretch="UniformToFill" TileMode="None" />
+    </Window.Background>
+
+    <Grid>
+        <ScrollViewer x:Name="ShowInfo" Margin="38,84,38,22.4" Background="LightGray">
+
+        </ScrollViewer>
+        <Button x:Name="Search" Content="Пошук" HorizontalAlignment="Left" Margin="215,41,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="Search_Click"/>
+        <TextBox x:Name="SearchContent" HorizontalAlignment="Left" Height="23" Margin="38,41,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="157" GotFocus="TExtChanged"/>
+        <Label Content="Пошук" HorizontalAlignment="Left" Margin="134,10,0,0" VerticalAlignment="Top" Width="61" FontFamily="Microsoft YaHei UI Light" FontSize="16" Foreground="White"/>
+
+    </Grid>
+</Window>

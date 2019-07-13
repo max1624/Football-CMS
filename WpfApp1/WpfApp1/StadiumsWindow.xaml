@@ -1,0 +1,20 @@
+﻿<Window x:Class="WpfApp1.StadiumsWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="StadiumsWindow" Height="270" Width="500">
+    <Window.Background>
+        <ImageBrush ImageSource="../Images/1.jpg" Stretch="UniformToFill" TileMode="None" />
+    </Window.Background>
+    <Grid>
+        <Label Content="Управління стадіонами" HorizontalAlignment="Left" Margin="161,28,0,0" VerticalAlignment="Top" Foreground="White" FontFamily="Microsoft YaHei UI Light" FontSize="16"/>
+        <Button Content="Додати стадіон" HorizontalAlignment="Left" Margin="59,86,0,0" VerticalAlignment="Top" Width="170" Height="26" Click="AddStadium"/>
+        <Button Content="Видалити стадіон" HorizontalAlignment="Left" Margin="59,148,0,0" VerticalAlignment="Top" Width="170" Height="27" Click="DeleteStadium"/>
+        <Button Content="Інформація про стадіон" HorizontalAlignment="Left" Margin="269,148,0,0" VerticalAlignment="Top" Width="170" Height="27" Click="ShowAllStadiums"/>
+        <Button Content="Змінити дані про стадіон" HorizontalAlignment="Left" Margin="269,86,0,0" VerticalAlignment="Top" Width="170" Height="26" Click="EditStadium"/>
+
+    </Grid>
+</Window>
